@@ -1,0 +1,28 @@
+[
+    {
+        "id": "eval_001",
+        "question": "How many annual leave days are employees entitled to?",
+        "expected_answer": "Employees are entitled to 20 days of annual leave.",
+        "relevant_document_ids": [
+            "policy-002",
+            "policy-003"
+        ],
+        "relevant_chunk_ids": [
+            "49c081cd-e26e-4ff6-bfd1-d9e5de36a4aa",
+            "dcf5c017-ea8e-4d43-acc6-e927d7447e81"
+        ]
+    },
+    {
+        "id": "eval_002",
+        "question": "Who approves an employee's annual leave request?",
+        "expected_answer": "The employee must submit the leave request to their reporting manager for approval.",
+        "relevant_document_ids": [
+            "policy-002",
+            "policy-003"
+        ],
+        "relevant_chunk_ids": [
+            "49c081cd-e26e-4ff6-bfd1-d9e5de36a4aa",
+            "dcf5c017-ea8e-4d43-acc6-e927d7447e81"
+        ]
+    }
+]
